@@ -10,7 +10,7 @@
  */
 public class ClaseConflicto {
     public ClaseConflicto(){
-    System.out.println("Primer Mensaje Juanma");
+    System.out.println("Mesaje conflictivo");
     
     }
     

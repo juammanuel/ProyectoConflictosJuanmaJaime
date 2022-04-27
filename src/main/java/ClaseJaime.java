@@ -9,5 +9,7 @@
  * @author usuario
  */
 public class ClaseJaime {
+    public static void main (String[] args){
     System.out.println("Primer Mensaje Jaime");   
+}
 }

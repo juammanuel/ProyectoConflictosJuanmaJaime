@@ -11,6 +11,7 @@
 public class ClaseConflicto {
     public ClaseConflicto(){
     System.out.println("Mesaje conflictivo");
+    System.out.println("Conflicto Juanma");
     
     }
     
